@@ -15,3 +15,4 @@ Notes and usage details for hewn-forge.
 - clarify the setup steps
 - add a note about the defaults
 - clarify the setup steps
+- fix a small wording issue
