@@ -24,3 +24,4 @@ Notes and usage details for hewn-forge.
 - fix a small wording issue
 - link the usage section
 - clarify the setup steps
+- clarify the setup steps
